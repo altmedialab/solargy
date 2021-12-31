@@ -1,0 +1,101 @@
+#top-logo {
+    height : 50px;
+    width : auto;
+}
+.top-nav-img {
+    height: 50px;
+    width: auto;
+}
+.top-nav {
+    background-color: #2bb1b1;
+}
+#top-logo:hover {
+    opacity:50%;
+}
+
+.jumbo {
+    background-image: url('../img/usage/world-map.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #2bb1b1;
+    background-blend-mode: soft-light;
+}
+
+
+.jumbo-img-1 {
+    height: 200px;
+    width: auto;
+}
+
+.jumbo-img-2 {
+    height: 150px;
+    width: auto;
+}
+
+.ft-links {
+    color : white;
+}
+.ft-links a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1.5rem;
+}
+
+.ft-links a:hover {
+    color: #2bb1b1;
+}
+
+.ft-social {
+    font-size : 1.5rem;
+    color : white;
+    padding : 5px;
+}
+.footer-title {
+    color : #2bb1b1;
+    font-weight : 400;
+}
+
+.news-img {
+    height :140px;
+    width : auto;
+}
+
+.feature-1 {
+    background-color: #000332;
+    color : #2bb1b1;
+}
+.feature-2 {
+    background-color: #2bb1b1;
+    /* background-color: #2b92c1; */
+    color : #ffffff;
+}
+
+.feature-3 {
+    background-color: #ffea92;
+}
+
+.ft-1 {
+    color : #ffea92;
+}
+
+.ft-2 {
+    color : #000332;
+}
+
+.ft-3 {
+    color : #2b92c1;
+}
+
+.img-ft-1 {
+    height : 499px;
+    width: auto;
+}
+.footer-logo {
+    height : 100px;
+}
+.copy-solargy {
+    width: 100%;
+    background-color: #000000;
+    color: #2bb1b1;
+    float: right;
+}
