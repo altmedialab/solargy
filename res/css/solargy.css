@@ -7,21 +7,37 @@
     width: auto;
 }
 
+.top-nav-link a{
+    color : #f0c933;
+}
+
+.nav-link a:hover {
+    color : #f0c933;
+}
+.top-nav {
+    background-color: #2bb1b1;
+    color : #f0c933;
+}
 #top-logo:hover {
     opacity:50%;
 }
 
 .jumbo {
-    background-image: url('../img/usage/Solar-1.jpg');
+    background-image: url('../img/usage/world-map.png');
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: #545557;
+    background-color: #f0c933;
+    /* background-color: #2bb1b1;  */
     background-blend-mode: soft-light;
 }
 
+#logo-jumbo {
+    height : auto;
+    width : auto;
+}
 
 .jumbo-img-1 {
-    height: 150px;
+    height: 200px;
     width: auto;
 }
 
@@ -31,11 +47,11 @@
 }
 
 .ft-links {
-    color : white;
+    /* color : white; */
 }
 .ft-links a{
     text-decoration: none;
-    color: #ffffff;
+    color: #888;
     font-size: 1.5rem;
 }
 
@@ -45,7 +61,7 @@
 
 .ft-social {
     font-size : 1.5rem;
-    color : white;
+    color :#888;
     padding : 5px;
 }
 .footer-title {
@@ -68,6 +84,10 @@
     color : #ffffff;
 }
 
+.feature-3 {
+    background-color: #f0c933;
+}
+
 .ft-1 {
     color : #ffea92;
 }
@@ -84,6 +104,13 @@
     height : 499px;
     width: auto;
 }
+
+.footer {
+    background-color: #000332;
+}
+
+
+
 .footer-logo {
     height : 100px;
 }
@@ -92,4 +119,30 @@
     background-color: #000000;
     color: #2bb1b1;
     float: right;
+}
+
+
+
+
+/* About page */
+
+.abt-solargy {
+    font-size: x-large;
+    color : #2bb1b1;
+}
+
+.ft-1-abt {
+    color : white;
+}
+
+.ft-2-abt {
+    color : #ffea92;
+}
+
+.ft-3-abt {
+    color : #fff;
+}
+
+.feature-3-abt {
+    background-color: #f0c933;
 }
