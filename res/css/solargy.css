@@ -87,6 +87,7 @@ font-family: 'Tajawal', sans-serif;
 .feature-1 > .featurette > .lead {
     
     font-size : 20px;
+    font-weight : 600;
 }
 .feature-2 {
     background-color: #2bb1b1;
