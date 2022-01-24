@@ -27,6 +27,7 @@ font-family: 'Tajawal', sans-serif;
 }
 
 .jumbo {
+    height: 100vh;
     background-image: url('../img/usage/world-map.png');
     background-repeat: no-repeat;
     background-size: cover;
