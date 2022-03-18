@@ -1,3 +1,7 @@
+body {
+font-family: 'Tajawal', sans-serif;
+}
+
 #top-logo {
     height : 50px;
     width : auto;
@@ -77,15 +81,22 @@
 .feature-1 {
     background-color: #000332;
     color : #2bb1b1;
+    font-weight : 300;
 }
 .feature-2 {
     background-color: #2bb1b1;
     /* background-color: #2b92c1; */
     color : #ffffff;
+    font-weight : 300;
 }
 
 .feature-3 {
+<<<<<<< HEAD
     background-color: #f0c933;
+=======
+    background-color: #ffea92;
+    font-weight : 300;
+>>>>>>> 3bf8bbc9a847b0060079f44affd53b7e2c68b975
 }
 
 .ft-1 {
@@ -120,6 +131,7 @@
     color: #2bb1b1;
     float: right;
 }
+<<<<<<< HEAD
 
 
 
@@ -146,3 +158,5 @@
 .feature-3-abt {
     background-color: #f0c933;
 }
+=======
+>>>>>>> 3bf8bbc9a847b0060079f44affd53b7e2c68b975
